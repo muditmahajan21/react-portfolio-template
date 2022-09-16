@@ -27,3 +27,4 @@ const WorkCard = ({ img, name, description, onClick }) => {
 };
 
 export default WorkCard;
+
