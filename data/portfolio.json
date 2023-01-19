@@ -22,7 +22,7 @@
     {
       "id": "7ef44407-9a98-4820-a6c2-a6d54cb8fb39",
       "title": "Resume",
-      "link": "https://drive.google.com/file/d/1htzNEp9dcGub0QdMTe8RLkWV-LyTfc3e/view?usp=sharing"
+      "link": "https://drive.google.com/file/d/1MMAzGf1UNxIlSwc0m-VVde9Qehs_BPJ2/view?usp=sharing"
     }
   ],
   "projects": [
@@ -81,8 +81,8 @@
       "universityDate": "2016-2020",
       "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
     },
-    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
-    "frameworks": ["React", "Typescript", "NodeJs"],
-    "others": ["Figma", "AdobeXD", "AWS"]
+    "languages": ["Javascript", "HTML5", "CSS", "Python"],
+    "frameworks": ["React", "Typescript", "NodeJs", "Electron"],
+    "others": ["Github", "Gitlab", "AWS"]
   }
 }
